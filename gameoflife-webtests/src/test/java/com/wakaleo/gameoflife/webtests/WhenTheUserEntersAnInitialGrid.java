@@ -1,4 +1,5 @@
 package com.wakaleo.gameoflife.webtests;
+/* hello */
 
 import com.wakaleo.gameoflife.webtests.requirements.GameOfLifeApplication;
 import com.wakaleo.gameoflife.webtests.steps.PlayerSteps;
